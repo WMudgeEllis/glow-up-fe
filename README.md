@@ -13,7 +13,7 @@ GlowUp is a bullet journaling application where users can track their mood and h
 
 ### Backend Set Up
 
-1. Go to this [repository](https://github.com/bullet-capstone/glow-up-be).
+1. Go to this [repository](https://github.com/WMudgeEllis/glow-up-be).
 2. Follow Set Up instructions.
 
 ### Frontend Set Up

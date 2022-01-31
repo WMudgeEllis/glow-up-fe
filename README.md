@@ -1,6 +1,6 @@
   <h1 align="center">✨GlowUp</h1>
 <p align="center">
-  <a href="https://glow-up-fe.herokuapp.com/glow-up-fe/">Explore our website</a>
+  <a href="https://glow-up-client.herokuapp.com/glow-up-fe/dashboard">Explore our website</a>
 </p>
 
 ![GlowUp Workflow](https://github.com/bullet-capstone/glow-up-fe/actions/workflows/node.js.yml/badge.svg)
